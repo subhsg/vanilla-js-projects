@@ -29,27 +29,27 @@ let songs = [{
         coverPath: "covers/6.jpg"
     },
     {
-        songName: "Salam-e-Ishq 1",
+        songName: "Song 1",
         filePath: "songs/6.mp3",
         coverPath: "covers/5.jpg"
     },
     {
-        songName: "Salam-e-Ishq 2",
+        songName: "Song 2",
         filePath: "songs/7.mp3",
         coverPath: "covers/4.jpg"
     },
     {
-        songName: "Salam-e-Ishq 3",
+        songName: "Song 3",
         filePath: "songs/8.mp3",
         coverPath: "covers/3.jpg"
     },
     {
-        songName: "Salam-e-Ishq 4",
+        songName: "Song 4",
         filePath: "songs/9.mp3",
         coverPath: "covers/2.jpg"
     },
     {
-        songName: "Salam-e-Ishq 5",
+        songName: "Song 5",
         filePath: "songs/10.mp3",
         coverPath: "covers/1.jpg"
     }
